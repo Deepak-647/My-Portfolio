@@ -6,6 +6,8 @@ import react from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
 import github from "../assets/github.png";
 import redux from "../assets/redux.png";
+import cpp from '../assets/cpp.png';
+import node from '../assets/node.png';
 
 const Skills = () => {
   const skills = [
@@ -49,7 +51,19 @@ const Skills = () => {
       id: 7,
       src: github,
       text: "GitHub",
-      style: "shadow-gray-400"
+      style: "shadow-gray-800"
+    },
+    {
+      id: 8,
+      src: node,
+      text: "Node JS",
+      style: "shadow-green-600"
+    },
+    {
+      id: 9,
+      src: cpp,
+      text: "C++",
+      style: "shadow-blue-400"
     },
   ];
   return (

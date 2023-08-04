@@ -11,8 +11,12 @@ const Home = () => {
                 <p className='text-gray-500 py-4 max-w-md'>I am looking for an opportunity for the React Js Front End Role.
                     Currently , I love to work on web application using technologies like React ,Tailwind, RTK . 
                 </p>
-                <div>
-                    <Link to='portfolio' smooth duration={500} className='group cursor-pointer text-white w-fit px-6 py-3 my-2 flex items-center rounded bg-blue-800 tex-2xl'>
+                <div className='flex'>
+                    <a href='/Resume.pdf' download="Resume.pdf" smooth duration={500} className='group cursor-pointer text-white w-fit mr-6 px-2 py-3 my-2 flex items-center rounded bg-blue-800 tex-2xl'>
+                        Download Resume
+                        
+                    </a>
+                    <Link to='portfolio' smooth duration={500} className='group cursor-pointer text-white w-fit   py-3 px-2 my-2 flex items-center rounded bg-blue-800 tex-2xl'>
                         Portfolio
                         <span className='group-hover:rotate-90 duration-300 px-2'><AiOutlineArrowRight size={20}/></span>
                     </Link>

@@ -14,23 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Hello there! I'm Deepak Kumar Behera , a passionate 23-year-old React JS developer actively seeking new opportunities to contribute my skills and expertise to exciting projects. With a strong foundation in front-end web development and a focus on React, I strive to create dynamic and user-friendly web applications that leave a lasting impact.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        My core skill set includes:
+        React , Redux Toolkit (RTK) ,Tailwind CSS ,HTML5 & CSS3 ,JavaScript .
+        I am a passionate learner, a team player, and I pay meticulous attention to detail. Let's work together to create amazing web experiences!
+        I have completed the MERN Stack development course from Coding Ninjas . And also familar with the languages like C++ . I have a good DSA knowledge in DSA which i have completed from Coding Ninjas .
+        
+        
         </p>
       </div>
     </div>

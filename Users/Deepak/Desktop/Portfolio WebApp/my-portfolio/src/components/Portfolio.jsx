@@ -12,42 +12,42 @@ const Portfolio = () => {
       id: 1,
       src: AmazonClone,
       demolink: "https://elaborate-pika-65b009.netlify.app/",
-      codelink: "",
+      codelink: "https://github.com/Deepak-647/Amazon-Clone-using-React/tree/master/Users/Deepak/Desktop/Amazon%20Clone/amazon-clone",
       details: "Amazon Clone App",
     },
     {
       id: 2,
       src: HungerHead,
-      demolink: "",
-      codelink: "",
+      demolink: "https://strong-ganache-179afb.netlify.app/",
+      codelink: "https://github.com/Deepak-647/Food-Delivering-React-App",
       details: "HungerHead Food Delivering App",
     },
     {
       id: 3,
       src: YouTubeClone,
-      demolink: "",
-      codelink: "",
+      demolink: "https://loquacious-dieffenbachia-0bc238.netlify.app/",
+      codelink: "https://github.com/Deepak-647/Youtube-Clone_React-App/tree/master/Users/Deepak/Desktop/Namaste%20React%20in%20Code/my-youtube",
       details: "YouTube Clone",
     },
     {
       id: 4,
       src: NetflixClone,
-      demolink: "",
-      codelink: "",
+      demolink: "https://hello-netflix.netlify.app/",
+      codelink: "https://github.com/Deepak-647/netflix-clone-live",
       details: "Netflix Clone",
     },
     {
       id: 5,
       src: MovieSearching,
-      demolink: "",
-      codelink: "",
+      demolink: "https://react-movie-search-imdb-app.netlify.app/",
+      codelink: "https://github.com/Deepak-647/Movies-app",
       details: "Movie Searching App",
     },
     {
       id: 6,
       src: MealSearch,
-      demolink: "",
-      codelink: "",
+      demolink: "https://deepak-647.github.io/Meal-App/",
+      codelink: "https://github.com/Deepak-647/Meal-App",
       details: "Meal Searching App",
     },
   ];
@@ -85,7 +85,7 @@ const Portfolio = () => {
                     onClick={() => redirectToURL(demolink)}
                     className="w-1/2 px-6 py-2 m-2 duration-200 hover:scale-105"
                   >
-                    Demo
+                    Live
                   </button>
                   |
                   <button
